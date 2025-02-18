@@ -5,5 +5,5 @@
   <img 
     src="https://raw.githubusercontent.com/tiziano149/Markdowntest/refs/heads/main/components-outline-view-intro%402x.png" 
     alt="Light Mode Image" 
-    style="width: 100%; height: 200px; object-fit: cover; display: block;">
+    style="width: 80vw; max-width: 100%; height: 30vh; max-height: 200px; object-fit: contain; display: block;">
 </picture>
